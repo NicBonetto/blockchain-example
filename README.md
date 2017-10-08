@@ -2,7 +2,7 @@
 A blockchain example using Python 3.
 
 # Getting Started
-This application uses Python 3 and pip, so ensure they are installed. Follow these command lines in your terminal:
+This application uses Python 3 and Flask, so ensure they are installed. Follow these command lines in your terminal:
 
 ```
 $ git clone https://github.com/NicBonetto/blockchain-example.git
